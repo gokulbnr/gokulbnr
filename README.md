@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a PhD Student at [QUT Centre for Robotics](https://research.qut.edu.au/qcr/).
+- 🔭 My interests broadly include Computer Vision and robotics.
+- 🌱 I’m currently learning VPR, Event-based Vision, Bio-inspired networks and lots of similar interesting stuff. 
+- 📫 How to reach me: Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gokulbnr/) or [Twitter](https://twitter.com/gokulbnr).
 <!--
 **gokulbnr/gokulbnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
