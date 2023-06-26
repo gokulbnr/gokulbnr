@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD Student at the [QUT Centre for Robotics(QCR)](https://research.qut.edu.au/qcr/). I previously worked as a Robotics Software Engineer with [Addverb](https://addverb.com/) and [Clutterbot](https://www.clutterbot.com/). I completed my Bachelors and Masters through a dual degree at [IIIT-H](https://www.iiit.ac.in/). I worked on my masters thesis at the [IIIT-H Robotics Research Centre(RRC)](https://robotics.iiit.ac.in/). 
+I am a [PhD Researcher](https://research.qut.edu.au/qcr/people/gokul-b-nair/) at the [QUT Centre for Robotics(QCR)](https://research.qut.edu.au/qcr/). I previously worked as a Robotics Software Engineer with [Addverb](https://addverb.com/) and [Clutterbot](https://www.clutterbot.com/). I completed my Bachelors and Masters through a dual degree at [IIIT-H](https://www.iiit.ac.in/). I worked on my masters thesis at the [IIIT-H Robotics Research Centre(RRC)](https://robotics.iiit.ac.in/). 
 - 🔭 My interests broadly include Computer Vision and robotics.
 - 🌱 I’m currently learning VPR, Event-based Vision, Bio-inspired networks and lots of similar interesting stuff. 
 - 📫 How to reach me: Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gokulbnr/) or [Twitter](https://twitter.com/gokulbnr).
