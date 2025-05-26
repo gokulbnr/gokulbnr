@@ -1,6 +1,6 @@
-### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=gokulbnr" />
 
+### Hi there 👋
 
 I am a [PhD Researcher](https://research.qut.edu.au/qcr/people/gokul-b-nair/) at the [QUT Centre for Robotics(QCR)](https://research.qut.edu.au/qcr/). I previously worked as a Robotics Software Engineer with [Addverb](https://addverb.com/) and [Clutterbot](https://www.clutterbot.com/). I completed my Bachelors and Masters through a dual degree at [IIIT-H](https://www.iiit.ac.in/). I worked on my masters thesis at the [IIIT-H Robotics Research Centre(RRC)](https://robotics.iiit.ac.in/). 
 - 🔭 My current research focuses on Neuromorphic Vision and my interests include Computer Vision in Robotics.
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=gokulbnr&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)
