@@ -2,7 +2,7 @@
 
 ### PhD Researcher | Robotics Software Engineer
 
-Hello! I'm a PhD Researcher with a strong foundation in **Robotics** and a keen focus on **Computer Vision**. My journey spans academic research in **Neuromorphic Vision** and industry experience in developing robust robotic systems.
+Hello! I'm a PhD Researcher with a foundations in **Computer Science** and **Robotics**, with a keen interest in **Computer Vision**. My journey spans academic research in **Neuromorphic Vision** and industry experience in developing robust robotic systems.
 
 ---
 
